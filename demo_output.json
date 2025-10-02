@@ -1,0 +1,5 @@
+{
+  "forecast_response": {
+    "forecast": "using saved arima model (implement forecasting) "
+  }
+}
